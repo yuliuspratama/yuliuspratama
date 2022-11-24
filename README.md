@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuliuspratama" alt="yuliuspratama" /></a> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://holopin.io/@yuliuspratama)"><img src="[https://github-profile-trophy.vercel.app/?username=yuliuspratama](https://holopin.me/yuliuspratama)" alt="yuliuspratama" /></a> </p>
+<p align="left"> <a href="https://holopin.io/@yuliuspratama"><img src="https://holopin.me/yuliuspratama" alt="yuliuspratama" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

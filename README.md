@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yulius Adi Pratama</h1>
+<h1 align="center"> <a href="https://holopin.io/@yuliuspratama"><img src="https://holopin.me/yuliuspratama" alt="yuliuspratama" /></a> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuliuspratama&label=Profile%20views&color=0e75b6&style=flat" alt="yuliuspratama" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuliuspratama" alt="yuliuspratama" /></a> </p>
-
-<p align="left"> <a href="https://holopin.io/@yuliuspratama"><img src="https://holopin.me/yuliuspratama" alt="yuliuspratama" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

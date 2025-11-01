@@ -1,6 +1,6 @@
 <!-- Header dengan gradient effect -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Yulius%20Adi%20Pratama&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=0d1117"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Yulius%20Pratama&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=0d1117"/>
 </div>
 
 <!-- Badges Holopin dengan efek fade -->

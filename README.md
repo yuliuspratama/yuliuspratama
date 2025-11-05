@@ -38,7 +38,7 @@
 
 <div align="center">
   <!-- GitHub Trophy dengan custom theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yuliuspratama&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8&bg_color=0d1117&title_color=58a6ff&rank_icon=github" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuliuspratama&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 <br>

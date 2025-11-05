@@ -14,10 +14,12 @@
 <div align="center">
   <h2>👋 Hi there! Welcome to my GitHub!</h2>
   <p>
-    <strong>🎯 Passionate Developer | 🤖 IoT Enthusiast | 🐍 Python Lover | 🧠 AI Curious</strong>
+    <strong>🎯 Full-Stack Developer | 🤖 IoT Enthusiast | 🐍 Python Lover | 🧠 AI Curious</strong>
   </p>
   <p>
-    <i>Saya adalah seorang developer yang antusias dengan teknologi IoT, embedded systems, dan programming. 
+    <i>Saya adalah seorang full-stack developer yang antusias dengan teknologi web development, IoT, embedded systems, dan programming. 
+    Sebagian besar kontribusi saya di GitHub fokus pada pengembangan aplikasi web modern menggunakan <strong>TypeScript</strong> dan <strong>JavaScript</strong>, 
+    sambil tetap mengeksplorasi <strong>Python</strong> untuk proyek-proyek AI dan IoT. 
     Saat ini sedang mendalami Generative AI dan eksplorasi penggunaan AI untuk meningkatkan produktivitas development. 
     Selalu bersemangat untuk belajar dan berkontribusi dalam proyek-proyek open source!</i>
   </p>
@@ -68,6 +70,65 @@
 
 <br>
 
+<!-- Language Usage Statistics Section -->
+<div align="center">
+  <h2>💻 Languages & Technologies</h2>
+  <p>
+    <i>Bahasa pemrograman dan teknologi yang saya gunakan dalam berbagai proyek</i>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <i>Statistik penggunaan bahasa terbaru dapat dilihat di <strong>Top Languages</strong> card di atas ⬆️</i>
+  </p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🌐 Primary Languages</h3>
+        <p align="left">
+          <strong>TypeScript</strong> 🔷 - Untuk type-safe web development<br>
+          <strong>JavaScript</strong> 🟨 - Core language untuk full-stack apps<br>
+          <strong>HTML</strong> 🟧 - Structure dan semantic markup<br>
+          <strong>Python</strong> 🐍 - AI, data processing, dan automation<br>
+          <strong>CSS</strong> 🎨 - Styling dan responsive design<br>
+          <strong>PLpgSQL</strong> 🗄️ - Database operations dengan PostgreSQL<br>
+          <strong>C++</strong> ⚙️ - Performance-critical applications<br>
+          <strong>GLSL</strong> 🎮 - Graphics programming dan shaders
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎯 Focus Areas</h3>
+        <p align="left">
+          <strong>Web Development</strong> - TypeScript & JavaScript untuk full-stack applications<br><br>
+          <strong>Frontend</strong> - HTML & CSS untuk user interfaces<br><br>
+          <strong>Backend & AI</strong> - Python untuk data processing dan AI projects<br><br>
+          <strong>Database</strong> - PLpgSQL untuk PostgreSQL database operations<br><br>
+          <strong>Systems Programming</strong> - C++ untuk performance-critical applications
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <p>
+    <i>Sebagian besar proyek saya fokus pada pengembangan aplikasi web modern menggunakan TypeScript dan JavaScript, 
+    sambil tetap mengeksplorasi teknologi IoT, embedded systems, dan AI untuk berbagai proyek passion.</i>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=0.5&section=header"/>
+</div>
+
+<br>
+
 <!-- Currently Learning Section -->
 <div align="center">
   <h2>🚀 Currently Learning</h2>
@@ -110,6 +171,27 @@
 
 <!-- Tech Stack dengan grouping yang lebih rapi -->
 <div align="center">
+  <h3>🌐 Web Development</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript">
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" title="HTML5">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" title="CSS3">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <h3>📌 Core Languages</h3>
 </div>
 
@@ -119,6 +201,21 @@
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" title="C Programming">
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" title="C++">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🗄️ Database</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL">
   </a>
 </div>
 
